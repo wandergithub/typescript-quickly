@@ -1,0 +1,22 @@
+{
+  "name": "typescript-quickly",
+  "version": "1.0.0",
+  "description": "Resources and exorcices used for practice: TypeScript Quickly (Yakov Fain, Anton Moiseev) Book.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wandergithub/typescript-quickly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wandergithub/typescript-quickly/issues"
+  },
+  "homepage": "https://github.com/wandergithub/typescript-quickly#readme",
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+}
